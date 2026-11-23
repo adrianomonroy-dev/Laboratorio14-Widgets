@@ -8,4 +8,6 @@
     <string name="simple_widget_initial">MusicHub</string>
     <string name="library_activity_name">Biblioteca</string>
     <string name="favorites_activity_name">Favoritos</string>
+    <string name="music_hub_widget_name">MusicHub destacado</string>
+    <string name="music_hub_widget_description">Canción destacada con accesos a Biblioteca y Favoritos.</string>
 </resources>
