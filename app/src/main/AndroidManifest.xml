@@ -23,6 +23,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".BibliotecaActivity"
+            android:exported="false"
+            android:label="@string/library_activity_name"
+            android:theme="@style/Theme.MusicHub" />
+        <activity
+            android:name=".FavoritosActivity"
+            android:exported="false"
+            android:label="@string/favorites_activity_name"
+            android:theme="@style/Theme.MusicHub" />
         <receiver
             android:name=".SimpleWidget"
             android:exported="true"
