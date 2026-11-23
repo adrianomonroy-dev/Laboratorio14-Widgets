@@ -2,7 +2,9 @@
     <string name="app_name">MusicHub</string>
     <string name="simple_widget_name">MusicHub</string>
     <string name="simple_widget_description">Acceso rápido a MusicHub.</string>
-    <string name="simple_widget_open">Abrir MusicHub</string>
+    <string name="simple_widget_open">Inicio</string>
+    <string name="simple_widget_library">Biblioteca</string>
+    <string name="simple_widget_favorites">Favoritos</string>
     <string name="simple_widget_initial">MusicHub</string>
     <string name="library_activity_name">Biblioteca</string>
     <string name="favorites_activity_name">Favoritos</string>
