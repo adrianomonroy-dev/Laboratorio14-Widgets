@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MusicHub</string>
+    <string name="simple_widget_name">MusicHub</string>
+    <string name="simple_widget_description">Acceso rápido a MusicHub.</string>
+    <string name="simple_widget_open">Abrir MusicHub</string>
+    <string name="simple_widget_initial">MusicHub</string>
 </resources>
